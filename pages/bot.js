@@ -7,8 +7,8 @@ const Bot = (props) => {
     <>
       <div className="bot-container">
         <Head>
-          <title>bot - Steel Sour Porpoise</title>
-          <meta property="og:title" content="bot - Steel Sour Porpoise" />
+          <title>bot - DTU AUV</title>
+          <meta property="og:title" content="bot - DTU AUV" />
         </Head>
         <header data-thq="thq-navbar" className="bot-navbar-interactive">
           <Image
