@@ -10,8 +10,8 @@ const Team = (props) => {
     <>
       <div className="team-container">
         <Head>
-          <title>Team - Steel Sour Porpoise</title>
-          <meta property="og:title" content="Team - Steel Sour Porpoise" />
+          <title>Team - DTU AUV</title>
+          <meta property="og:title" content="Team - DTU AUV" />
         </Head>
         <header data-thq="thq-navbar" className="team-navbar-interactive">
           <Image
