@@ -9,8 +9,8 @@ const Galleries = (props) => {
     <>
       <div className="galleries-container">
         <Head>
-          <title>Galleries - Steel Sour Porpoise</title>
-          <meta property="og:title" content="Galleries - Steel Sour Porpoise" />
+          <title>Galleries - DTU AUV</title>
+          <meta property="og:title" content="Galleries - DTU AUV" />
         </Head>
         <header data-thq="thq-navbar" className="galleries-navbar-interactive">
           <Image
